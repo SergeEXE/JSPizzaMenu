@@ -1,0 +1,51 @@
+1. Pick Size
+	Radio button menu
+		-Personal, $6
+		-Medium, $10
+		-Large, $14
+		-Extra Large, $16
+	VARIABLE: Size Choice
+	VARIABLE: Base Price
+2. Meats
+	Check Box menu
+		-Pepperoni
+		-Sausage
+		-Canadian Bacon
+		-Ground Beef
+		-Anchovy
+		-Chicken
+	BOOLEAN VARIABLES FOR EACH, IF CHECKED =1, ADD TOGETHER -1
+3. Cheese
+	Radio Button menu
+		-No Cheese
+		-Regular
+		-Extra Cheese, +$3
+	VARIABLE: Cheese Choice
+	VARIABLE: Cheese cost
+4. Crust
+	Radio Button menu
+		-Plain
+		-Garlic Butter
+		-Cheese Stuffed, +$3
+		-Spicy
+		-House Special
+	VARIABLE: Crust Choice
+	VARIABLE: Crust cost
+5. Sauce
+	Radio Button menu
+		-Marinara
+		-White
+		-Barbeque
+		-None
+	VARIABLE: Sauce Choice
+6. Veggies
+	Check Box menu
+		-Tomatoes
+		-Onions
+		-Olives
+		-Green Peppers
+		-Mushrooms
+		-Pineapple
+		-Spinach
+		-Jalapeno
+	BOOLEAN VARIABLES FOR EACH, IF CHECKED =1, ADD TOGETHER -1
